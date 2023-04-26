@@ -1,30 +1,18 @@
 body {
   background: green;
 }
+
 .col-6 {
   margin-top: 50px;
 }
-#numero {
-  font-size: 70px;
-  display: block;
-  text-align: center;
-  margin-top: 100px;
-}
-#simbolo1 {
-  font-size: 70px;
-}
-#simbolo2 {
-  font-size: 70px;
-  display: block;
-  text-align: right;
-  margin-top: 150px;
+.input-group {
+  width: 400px;
 }
 
 .rojo {
   color: red;
 }
-.p-3 {
-  border-radius: 20px;
-  height: 600px;
-  width: 400px;
+.tamañoR {
+  position: absolute;
+  bottom: 180px;
 }
